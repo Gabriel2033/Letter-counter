@@ -1,13 +1,4 @@
-# Gabriel Hernandez
-# CH 7 Programming assingment
-# Part A
 
-# Create a program in a file named letter_count.py.
-# Prompt the user to enter three different words or phrases, one at a time; store each response in a separate variable.
-# Next, prompt the user a letter they wish to count.
-# Finally, count how many times the letter occurs in each of the three words/phrases,
-# regardless of case (uppercase or lowercase), as well as the total; output a formatted table displaying the results.
-# Be sure your program includes adequate directions for the user.
 
 first_word = input('Enter the first word').lower()
 second_word = input('Enter the second word').lower()
